@@ -1,0 +1,6 @@
+*~
+.*.swp
+/*.hdf5
+/*.pdf
+/*.log
+/export.sh
