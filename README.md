@@ -10,7 +10,8 @@ Preprint on [arxiv](TODO)
 The code in this repository has been used to produce all plots
 of the above paper. It relies on [DFTK](https://dftk.org)
 [version 0.0.6](https://doi.org/10.5281/zenodo.3749552).
-For more details see [this blog article](TODO).
+For more details see
+[this blog article](https://michael-herbst.com/2020-nonscf-error-estimates.html).
 
 ## Running the code and reproducing the plots
 Running the code requires an installation of
