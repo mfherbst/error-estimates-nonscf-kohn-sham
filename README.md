@@ -1,11 +1,11 @@
 # A posteriori error estimates for non-self-consistent Kohn-Sham equations
-[![](https://img.shields.io/badge/arxiv-preprint-red)](TODO)
+[![](https://img.shields.io/badge/arxiv-2004.13549-red)](https://arxiv.org/abs/2004.13549)
 
 Implementation of the error estimates discussed in the paper:
 
 Michael F. Herbst, Antoine Levitt, Eric Cancès  
 *A posteriori error estimation for the non-self-consistent Kohn-Sham equations*  
-Preprint on [arxiv](TODO)
+Preprint on [arxiv](https://arxiv.org/abs/2004.13549)
 
 The code in this repository has been used to produce all plots
 of the above paper. It relies on [DFTK](https://dftk.org)
